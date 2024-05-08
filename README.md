@@ -1,2 +1,2 @@
 # html-portfolio
-Web development portfoli
+Web development portfolio
